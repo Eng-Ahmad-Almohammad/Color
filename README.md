@@ -4,6 +4,7 @@
 #### 1. *RGB values*: These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90).
 #### 2. * hex codes*: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
 #### 3. *color names*: There are 147 predefined color names that are recognized by browsers. For example: DarkCyan.
+![color](https://user-images.githubusercontent.com/70091044/92714069-641b2080-f364-11ea-8dd9-33d79d529705.PNG)
 
 
 ## Background Color
