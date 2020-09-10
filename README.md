@@ -10,6 +10,7 @@
 ## Background Color
 ### CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
 ### You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values, hex codes, and color names. 
+![background color](https://user-images.githubusercontent.com/70091044/92714176-8f057480-f364-11ea-981b-ba377f00ba2d.PNG)
 
 
 ## CSS3: Opacity
